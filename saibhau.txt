@@ -1,0 +1,10 @@
+BMW		1000
+Ferrari		1800
+Porsche		2000
+Lamberghini	1900	
+Limo		1500
+Audi		900
+Rangerover	1000	
+Landrover	1000
+Renault		500
+Nano		10
